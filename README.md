@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thanks for visiting 👋, I'm Riley Corpac
 
 <!--
 **RileyCC56/RileyCC56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/riley-corpac/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="riley-corpac" height="30" width="40" /></a>
+  
+![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyCC56&theme=graywhite&show_icons=true)
+
+  
+</p>
