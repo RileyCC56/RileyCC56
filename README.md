@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Riley Corpac</h1>
   
-one line of info
+With background in travel and tourisim, I spent many years perfecting my creative thinking, problem-solving, and client service. Like many others, COVID put a wrench in the plans and I pivoted.
 
-one line of info
+Ive spent the last year training in data analytics which allows me to continue a path of creative thinking, problem-solving, and client service. 
 
-one line of info
+Thank you for visiting my page!
 
 🛠️ Tools of the Trade
 
@@ -30,11 +30,7 @@ one line of info
 ![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyCC56&theme=graywhite&show_icons=true)
 ---
 
----
-Random Joke:
+Contact information
 
-**Q:** What's the second movie about a database engineer called?
-
-**A:** The SQL.
-
----
+- [Linkedin:briefcase:](http://www.linkedin.com/in/cristina-mulas-00321a167)
+- 📫 Email:RileyCorpac@gmail.com
