@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riley Corpac</h1>
   
-With background in travel and tourisim, I spent many years perfecting my creative thinking, problem-solving, and client service. Like many others, COVID put a wrench in the plans and I pivoted.
+With a background in travel and tourisim, I spent many years perfecting my creative thinking, problem-solving, and client service. Like many others, COVID put a wrench in the plans and I pivoted.
 
 Ive spent the last year training in data analytics which allows me to continue a path of creative thinking, problem-solving, and client service. 
 
@@ -30,7 +30,7 @@ Thank you for visiting my page!
 ![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyCC56&theme=graywhite&show_icons=true)
 ---
 
-Contact information
+Contact Info:
 
-- [Linkedin:briefcase:](http://www.linkedin.com/in/cristina-mulas-00321a167)
+- 💼(https://www.linkedin.com/in/riley-corpac/)
 - 📫 Email:RileyCorpac@gmail.com
