@@ -32,5 +32,5 @@ Thank you for visiting my page!
 
 Contact Info:
 
-- 💼(https://www.linkedin.com/in/riley-corpac/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/riley-corpac/)
 - 📫 Email:RileyCorpac@gmail.com
