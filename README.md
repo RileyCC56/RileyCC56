@@ -4,8 +4,6 @@ With a background in travel and tourisim, I spent many years perfecting my creat
 
 Ive spent the last year training in data analytics which allows me to continue a path of creative thinking, problem-solving, and client service. 
 
-Thank you for visiting my page!
-
 🛠️ Tools of the Trade
 
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
