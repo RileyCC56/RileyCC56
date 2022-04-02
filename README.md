@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riley Corpac</h1>
   
-With a background in travel and tourisim, I spent many years perfecting my creative thinking, problem-solving, and client service. Like many others, COVID put a wrench in the plans and I pivoted.
+With a background in travel and tourism, I spent many years perfecting my creative thinking, problem-solving, and client service. Like many others, COVID put a wrench in the plans and I pivoted.
 
-Ive spent the last year training in data analytics which allows me to continue a path of creative thinking, problem-solving, and client service. 
+I've spent the last year training in data analytics which allows me to continue a path of creative thinking, problem-solving, and client service. 
 
 🛠️ Tools of the Trade
 
@@ -22,8 +22,7 @@ Ive spent the last year training in data analytics which allows me to continue a
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
----  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RileyCC56&theme=graywhite&show_icons=true&locale=en&layout=compact" alt="RileyCC56" /></p>
+--- 
   
 ![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=RileyCC56&theme=graywhite&show_icons=true)
 ---
@@ -31,4 +30,4 @@ Ive spent the last year training in data analytics which allows me to continue a
 Contact Info:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/riley-corpac/)
-- 📫 Email:RileyCorpac@gmail.com
+- 📫 Email: RileyCorpac@gmail.com
